@@ -1,6 +1,9 @@
 # 🙋‍♂️ Hi, I'm Sayed Bhr Welcome To My Github Profile ♥
 
-<img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif"  alt="Coder GIF" width="900" height="600">
+<br/>
+<br/>
+
+<img align="right" src="https://github.com/demartini/demartini/blob/master/code.gif"  alt="Coder GIF" width="380" height="280">
 
 <p align="left">
 
@@ -31,6 +34,8 @@ Welcome to my GitHub profile! Here you will find solutions, experiments, snippet
 
 
 ---
+---
+
 ---
 
 ### 🧰 Programming Languages and Tools
