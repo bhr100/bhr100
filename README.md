@@ -18,12 +18,10 @@ Welcome to my GitHub profile! Here you will find solutions, experiments, snippet
     <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
   
-<!--   <a href="https://www.facebook.com/profile.php?id=100009297928229">
+  <a href="https://www.facebook.com/profile.php?id=100009297928229">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-  </a> -->
-  
-  [![Facebook](icons/facebook.png)]([https://www.Facebook.com/in/hussainweb/](https://www.facebook.com/profile.php?id=100009297928229))
-  
+  </a>
+    
   <a href="https://www.instagram.com/sayed_b7r10/">
     <img align="left"  width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
