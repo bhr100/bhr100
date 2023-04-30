@@ -23,15 +23,14 @@ Welcome to my GitHub profile! Here you will find solutions, experiments, snippet
     <img align="left"  width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
   
-  <a href="https://www.facebook.com/matyo91"><img align="left"  width="40px" src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100009297928229"><img align="left"  width="40px" src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://api.whatsapp.com/send?phone=01554468200"><img align="left"  width="40px" src="https://img.icons8.com/color/96/000000/whatsapp.png" /></a>
 
   <a 
      href="mailto:sayedb7r7@gmail.com"><img align="left" width="40px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/>
   </a>
 </p>
 
-[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009297928229)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01554468200)
 ___
 
 ### 🧰 Programming Languages and Tools
