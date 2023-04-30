@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hi, I'm Sayed Bhr Welcome To My Github Profile ♥
 
-<img align="right" src="https://github.com/demartini/demartini/blob/master/code.gif"  alt="Coder GIF" width="380" height="280">
+<img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif"  alt="Coder GIF" width="380" height="280">
 
 <p align="left">
 
@@ -10,6 +10,7 @@
 
 Welcome to my GitHub profile! Here you will find solutions, experiments, snippets and everything related to techonology (specially on data). Some of the projects I share here are part of my continuous learning journey. My profession is data science and analysis, but I'm also a self-learner. It would be impossible for me not to learn something new every single day, I love sharing my experience with others and helping them. Feel free to share, comment, provide feedback and interact with me.
 
+___
 
 **📞Contact Me:**
 
