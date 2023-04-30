@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hi, I'm Sayed Bhr Welcome To My Github Profile ♥
+<p align="center"> # 🙋‍♂️ Hi, I'm Sayed Bhr Welcome To My Github Profile ♥
 
 <img align="right" src="https://github.com/demartini/demartini/blob/master/code.gif"  alt="Coder GIF" width="380" height="280">
 <!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
@@ -22,7 +22,9 @@ Welcome to my GitHub profile! Here you will find solutions, experiments, snippet
   <a href="https://www.instagram.com/sayed_b7r10/">
     <img align="left"  width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
-
+  <a 
+     href="mailto:sayedb7r7@gmail.com"><img align="left" width="22px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/>
+  </a>
 </p>
 
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009297928229)
