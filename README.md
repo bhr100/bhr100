@@ -9,7 +9,6 @@
 
 Welcome to my GitHub profile! Here you will find solutions, experiments, snippets and everything related to techonology (specially on data). Some of the projects I share here are part of my continuous learning journey. My profession is data science and analysis, but I'm also a self-learner. It would be impossible for me not to learn something new every single day, I love sharing my experience with others and helping them. Feel free to share, comment, provide feedback and interact with me.
 
---
 
 **Social Media:**
 
@@ -27,4 +26,16 @@ Welcome to my GitHub profile! Here you will find solutions, experiments, snippet
   </a>
 
 </p>
+
+___
+
+### 🧰 Programming Languages and Tools
+    
+<a href="https://www.python.org/"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
+<a href="https://jupyter.org/"><img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/></a>
+<a href="https://git-scm.com/"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>
+<a href="https://github.com/"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></a>
+<a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
+
+
  
