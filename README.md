@@ -24,8 +24,7 @@ Welcome to my GitHub profile! Here you will find solutions, experiments, snippet
 </p>
 
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009297928229)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:AmrSaaayed74@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sayedb7r7@gmail.com)](mailto:sayedb7r7@gmail.com)
 ___
 
 ### 🧰 Programming Languages and Tools
