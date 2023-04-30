@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif"  alt="Coder GIF" width="600" height="500">
+<img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif"  alt="Coder GIF" width="1000" height="600">
 
 
 <p align="left">
