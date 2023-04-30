@@ -20,7 +20,8 @@ Welcome to my GitHub profile! Here you will find solutions, experiments, snippet
   <a href="https://www.instagram.com/sayed_b7r10/">
     <img align="left"  width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
-  [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/DevAmr74/](https://www.facebook.com/profile.php?id=100009297928229))
+[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/100009297928229/)
+
 
 </p>
 
