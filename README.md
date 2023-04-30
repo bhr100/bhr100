@@ -14,6 +14,10 @@ Welcome to my GitHub profile! Here you will find solutions, experiments, snippet
     <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
   
+  <a href="https://www.kaggle.com/joanlanester">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/kaggle.svg" />
+  </a>
+  
   <a href="https://www.instagram.com/sayed_b7r10/">
     <img align="left"  width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
