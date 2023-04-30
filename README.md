@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hi, I'm Sayed Bhr Welcome To My Github Profile ♥
 
-<img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif"  alt="Coder GIF" width="380" height="280">
+<img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif"  alt="Coder GIF" width="900" height="600">
 
 <p align="left">
 
@@ -10,31 +10,32 @@
 
 Welcome to my GitHub profile! Here you will find solutions, experiments, snippets and everything related to techonology (specially on data). Some of the projects I share here are part of my continuous learning journey. My profession is data science and analysis, but I'm also a self-learner. It would be impossible for me not to learn something new every single day, I love sharing my experience with others and helping them. Feel free to share, comment, provide feedback and interact with me.
 
-___
+---
 
 **📞Contact Me:**
 
-<p align="left">
+
   <a href="https://www.linkedin.com/in/sayed-bhr-981687264/">
     <img align="left" width="40px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" />
-  </a>
-    
+  </a>    
   <a href="https://www.instagram.com/sayed_b7r10/">
     <img align="left"  width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  </a>  
+  <a href="https://www.facebook.com/profile.php?id=100009297928229"><img align="left"  width="40px" src="https://img.icons8.com/color/96/000000/facebook.png"  alt="facebook"/></a>
+  <a 
+  href="https://api.whatsapp.com/send?phone=01554468200"><img align="left"  width="40px" src="https://img.icons8.com/color/96/000000/whatsapp.png" />
   </a>
-  
-  <a href="https://www.facebook.com/profile.php?id=100009297928229"><img align="left"  width="40px" src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://api.whatsapp.com/send?phone=01554468200"><img align="left"  width="40px" src="https://img.icons8.com/color/96/000000/whatsapp.png" /></a>
-
   <a 
      href="mailto:sayedb7r7@gmail.com"><img align="left" width="40px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/>
   </a>
-</p>
 
-___
+
+---
+---
 
 ### 🧰 Programming Languages and Tools
-    
+
+
 <a href="https://www.python.org/"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
 <a href="https://jupyter.org/"><img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>
