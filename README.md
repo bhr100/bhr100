@@ -11,7 +11,9 @@ Welcome to my GitHub profile! Here you will find solutions, experiments, snippet
 
 <p align="left">
 
-
+  <a href="https://www.instagram.com/sayed_b7r10/">
+    <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  </a>
 
 </p>
  
