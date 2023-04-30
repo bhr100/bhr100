@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Here you will find solutions, experiments, snippet
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sayed-bhr-981687264/">
-    <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" width="22px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" />
   </a>
     
   <a href="https://www.instagram.com/sayed_b7r10/">
