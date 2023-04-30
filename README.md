@@ -1,8 +1,7 @@
-<p align="center"> # 🙋‍♂️ Hi, I'm Sayed Bhr Welcome To My Github Profile ♥
+# 🙋‍♂️ Hi, I'm Sayed Bhr Welcome To My Github Profile ♥
 
 <img align="right" src="https://github.com/demartini/demartini/blob/master/code.gif"  alt="Coder GIF" width="380" height="280">
-<!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-  -->
+
 <p align="left">
 
   <a href="https://git.io/typing-svg">
